@@ -1,7 +1,7 @@
 <h1 align="center">Skill Village Absensi-App</h1>
 
 <p align="center">
-Web-based Attendance Management System built using Laravel 11, React.js, Inertia.js, and MySQL.
+Web-based Attendance Management System built using Laravel 13, React.js, Tailwind.css, Inertia.js, and MySQL.
 </p>
 
 <p align="center">
